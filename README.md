@@ -33,6 +33,7 @@ source venv/bin/activate   # Para Linux/Mac
 ```
 ```
 # ou
+python -m venv venv
 .\venv\Scripts\activate    # Para Windows
 ```
 
